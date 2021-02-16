@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AdditionCalculator</string>
+    <string name="first_number">First number</string>
+    <string name="second_number">Second number</string>
+    <string name="add_numbers">Add numbers</string>
+    <string name="result">Result</string>
+    <string name="LOG_ADD_BUTTON_CLICK">Add button clicked.</string>
+    <string name="LOG_ADD_SUCCESSFUL">Addition successful.</string>
+    <string name="LOG_ADD_NUMBER_FIELDS_EMPTY">At least one number field empty.</string>
+    <string name="LOG_ADD_NUMBER_OUT_OF_RANGE">Number is out of range.</string>
+    <string name="TOAST_ADD_NUMBER_FIELDS_EMPTY">At least one number field empty.</string>
+    <string name="TOAST_ADD_NUMBER_OUT_OF_RANGE">Number is out of range.</string>
+</resources>
